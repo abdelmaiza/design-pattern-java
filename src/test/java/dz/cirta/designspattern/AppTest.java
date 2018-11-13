@@ -1,4 +1,4 @@
-package dz.cirta.designpattern;
+package dz.cirta.designspattern;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
