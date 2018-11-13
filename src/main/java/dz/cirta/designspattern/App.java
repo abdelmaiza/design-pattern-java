@@ -1,4 +1,4 @@
-package dz.cirta.designpattern;
+package dz.cirta.designspattern;
 
 /**
  * Hello world!
