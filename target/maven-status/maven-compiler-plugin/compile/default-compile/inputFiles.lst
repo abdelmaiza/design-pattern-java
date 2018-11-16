@@ -1,1 +1,7 @@
 C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\App.java
+C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\AudioPlayer.java
+C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\VlcPlayer.java
+C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\AdvencedMediaPlayer.java
+C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\MediaPlayer.java
+C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\MediaAdapter.java
+C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\Mp4Player.java
