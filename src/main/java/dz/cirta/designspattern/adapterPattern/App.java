@@ -1,4 +1,4 @@
-package dz.cirta.designspattern;
+package dz.cirta.designspattern.adapterPattern;
 
 import dz.cirta.designspattern.adapterPattern.AudioPlayer;
 
