@@ -2,7 +2,7 @@ package dz.cirta.designspattern.builderPattern;
 
 public class BuilderDemo {
     public static void main (String [] args){
-        LunchOrder order = new LunchOrder.LunchBuilder()
+        LunchOrder order = new LunchOrder.Builder()
                 .bread("Wheat")
                 .condiments("Lotuce")
                 .dressing("Mayo")
