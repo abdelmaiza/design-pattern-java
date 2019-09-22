@@ -1,7 +1,9 @@
-C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\App.java
-C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\AudioPlayer.java
-C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\VlcPlayer.java
-C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\AdvencedMediaPlayer.java
-C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\MediaPlayer.java
-C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\MediaAdapter.java
-C:\JTB\projects\designspattern\src\main\java\dz\cirta\designspattern\adapterPattern\Mp4Player.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\adapterPattern\MediaAdapter.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\adapterPattern\MediaPlayer.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\adapterPattern\Mp4Player.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\adapterPattern\App.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\adapterPattern\VlcPlayer.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\builderPattern\BuilderDemo.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\adapterPattern\AdvencedMediaPlayer.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\builderPattern\LunchOrder.java
+C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\adapterPattern\AudioPlayer.java
