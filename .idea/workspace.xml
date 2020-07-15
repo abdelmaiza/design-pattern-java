@@ -1,8 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c8136bc-3f92-4ddc-93f0-593da7d0e5cd" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4c8136bc-3f92-4ddc-93f0-593da7d0e5cd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/singleton/DbSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/singleton/DbSingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a60fcd36eb336b1599d73ff6ab0485e114cd7f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c366060949caebac4aa1329be2ada99ca1164d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82ec97752c0887f01abbd4928ff204c45ffdd867" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0e177a404fc5bb72c891ad959c465aa97aebca1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae8537ee02246b934d263a26bf086b3d79805c57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4a84af98c3e7b6e1b452d9dc23b26d795f28da6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designpattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designpattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexPlatinumValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexPlatinumValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/VisaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/VisaValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AdvencedMediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AdvencedMediaPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AudioPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AudioPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/Mp4Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/Mp4Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/VlcPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/VlcPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/BuilderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/BuilderDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/type/ProductType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/type/ProductType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/FactoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/FactoryDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/AboutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/AboutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CommentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CommentPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ContactPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ItemPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ItemPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/PostPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/PostPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Blog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Blog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Website.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Website.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/type/WebsiteType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/type/WebsiteType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/design-pattern-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/design-pattern-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,19 +95,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\AMAIZA\.m2\repository" />
-        <option name="userSettingsFile" value="C:\Users\AMAIZA\.m2\settings-gs.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1R9VCBkOWxI9u7VuPM4Dy9IAX0N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564338725042" />
@@ -46,7 +115,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -57,19 +126,13 @@
       <recent name="C:\workspace\amaiza\design-pattern-java\src\main\java\factoryPattern" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.DemoProductFactory">
+  <component name="RunManager" selected="Application.DbSingletonDemo">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="idea.plugin.jmeter.run.JmeterConfigurationType" factoryName="JMeter">
       <setting name="testFile" value="" />
       <setting name="propertyFile" value="" />
@@ -78,12 +141,6 @@
       <setting name="workingDirectory" value="" />
       <properties />
       <method />
-    </configuration>
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.adapter.App" />
@@ -106,6 +163,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dz.cirta.designspattern.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.singleton.DbSingletonDemo" />
+      <module name="designpattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz.cirta.designspattern.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,7 +239,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -233,9 +304,11 @@
       <item itemvalue="Application.App" />
       <item itemvalue="Application.BuilderDemo" />
       <item itemvalue="Application.DemoProductFactory" />
+      <item itemvalue="Application.DbSingletonDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DbSingletonDemo" />
         <item itemvalue="Application.DemoProductFactory" />
         <item itemvalue="Application.BuilderDemo" />
         <item itemvalue="Application.App" />
@@ -259,6 +332,7 @@
       <workItem from="1564334416213" duration="120000" />
       <workItem from="1564334642432" duration="4358000" />
       <workItem from="1569079171448" duration="16621000" />
+      <workItem from="1594765314936" duration="10381000" />
     </task>
     <servers />
   </component>
@@ -272,7 +346,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -284,6 +358,53 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="112" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1594767244933">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="355" y="112" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1594767244933" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1594815137965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1594815137965" />
+    <state width="1398" height="184" key="GridCell.Tab.0.bottom" timestamp="1594847559163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594847559163" />
+    <state width="1398" height="184" key="GridCell.Tab.0.center" timestamp="1594847559163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594847559163" />
+    <state width="1398" height="184" key="GridCell.Tab.0.left" timestamp="1594847559162">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594847559162" />
+    <state width="1398" height="184" key="GridCell.Tab.0.right" timestamp="1594847559163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594847559163" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1594816627432">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594816627432" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1594816627431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1594816627431" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1594816627431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1594816627431" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1594816627431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1594816627431" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1594847635690">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594847635690" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -307,6 +428,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/Mp4Player.java</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

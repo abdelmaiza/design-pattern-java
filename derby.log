@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 15 17:00:08 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0173-52fd-711e-00000f7049b0 
+on database directory memory:/Users/amaiza/IdeaProjects/design-pattern-java/codejava/webdb  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/Users/amaiza/.m2/repository/org/apache/derby/derby/10.8.3.0/derby-10.8.3.0.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=11.0.7+10-b765.64
+user.dir=/Users/amaiza/IdeaProjects/design-pattern-java
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

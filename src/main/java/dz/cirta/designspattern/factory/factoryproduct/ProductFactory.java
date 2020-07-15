@@ -13,9 +13,9 @@ public class ProductFactory {
     }
 
     @NotNull
-    public static Product getProduct(ProductType ProductType) {
+    public static Product getProduct(ProductType productType) {
         Product product;
-        switch (ProductType) {
+        switch (productType) {
             case PRODUCTA: {
                 product = getProductA();
                 break;
