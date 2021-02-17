@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,59 +23,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c8136bc-3f92-4ddc-93f0-593da7d0e5cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/singleton/DbSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/singleton/DbSingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a60fcd36eb336b1599d73ff6ab0485e114cd7f9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c366060949caebac4aa1329be2ada99ca1164d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82ec97752c0887f01abbd4928ff204c45ffdd867" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0e177a404fc5bb72c891ad959c465aa97aebca1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae8537ee02246b934d263a26bf086b3d79805c57" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4a84af98c3e7b6e1b452d9dc23b26d795f28da6" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/behavioral/chain_of_responsibility/responsibilitydemo/AbstractHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/behavioral/chain_of_responsibility/responsibilitydemo/CEO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/behavioral/chain_of_responsibility/responsibilitydemo/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/behavioral/chain_of_responsibility/responsibilitydemo/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/behavioral/chain_of_responsibility/responsibilitydemo/RequestType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/behavioral/chain_of_responsibility/responsibilitydemo/VP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/behavioral/chain_of_responsibility/responsibilitydemo/main/ChainOfResponsibilityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/designpattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designpattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexPlatinumValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexPlatinumValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/VisaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/VisaValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AdvencedMediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AdvencedMediaPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AudioPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AudioPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/Mp4Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/Mp4Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/VlcPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/VlcPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/BuilderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/BuilderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/type/ProductType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/type/ProductType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/FactoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/FactoryDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/AboutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/AboutPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CartPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CommentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CommentPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ContactPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ItemPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ItemPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/PostPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/PostPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/SearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Blog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Blog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Website.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Website.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/type/WebsiteType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/type/WebsiteType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/AbstractFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/AbstractFactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/AbstractFactoryEverydayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/AbstractFactoryEverydayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/AmexGoldCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/AmexGoldCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/AmexPlatinumCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/AmexPlatinumCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/VisaBlackCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/VisaBlackCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/VisaCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/VisaCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/VisaGoldCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/VisaGoldCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexGoldValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/validator/AmexGoldValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexPlatinumValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/validator/AmexPlatinumValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/validator/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcard/validator/VisaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcard/validator/VisaValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcardfactory/AmexAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcardfactory/AmexAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcardfactory/CreditCardAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcardfactory/CreditCardAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcardfactory/VisaAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcardfactory/VisaAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory/creditcardfactory/type/CardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/abstractfactory/creditcardfactory/type/CardType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/AdvencedMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/AdvencedMediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/MediaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/MediaAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/MediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/MediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/Mp4Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/Mp4Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/VlcPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/VlcPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/builder/BuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/builder/BuilderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/builder/LunchOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/builder/LunchOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/DemoProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/ProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/product/ProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/product/ProductA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/product/ProductB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/product/ProductB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/product/type/ProductType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/product/type/ProductType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/FactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/WebsiteFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/AboutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/AboutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/CommentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/CommentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/ItemPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/ItemPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/PostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/PostPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/page/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/page/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/website/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/website/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/website/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/website/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/website/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/website/Website.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factorywebsite/website/type/WebsiteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factorywebsite/website/type/WebsiteType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/singleton/DbSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/singleton/DbSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/singleton/DbSingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/singleton/DbSingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/AbstractFactoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/AbstractFactoryEverydayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/AmexGoldCreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/AmexPlatinumCreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/CreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/VisaBlackCreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/VisaCreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/VisaGoldCreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexGoldValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/validator/AmexPlatinumValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/validator/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcard/validator/VisaValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcardfactory/AmexAbstractFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcardfactory/AmexAbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcardfactory/CreditCardAbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcardfactory/VisaAbstractFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcardfactory/VisaAbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/abstractfactory/creditcardfactory/type/CardType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AdvencedMediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/AudioPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/MediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/Mp4Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/adapter/VlcPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/BuilderDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/builder/LunchOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/ProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factoryproduct/product/type/ProductType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/FactoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/WebsiteFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/AboutPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/CommentPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ContactPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/ItemPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/PostPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/page/SearchPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Blog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/Website.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/factory/factorywebsite/website/type/WebsiteType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/singleton/DbSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dz/cirta/designspattern/singleton/DbSingletonDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/design-pattern-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/design-pattern-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,30 +152,43 @@
       <list>
         <option value="Interface" />
         <option value="Kotlin File" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="1R9VCBkOWxI9u7VuPM4Dy9IAX0N" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.40589765" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564338725042" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/abstractfactory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -121,12 +199,15 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="dz.cirta.designspattern" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dz.cirta.designspattern.behavioral" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workspace\amaiza\design-pattern-java\src\main\java\dz\cirta\designspattern\abstractfactory" />
       <recent name="C:\workspace\amaiza\design-pattern-java\src\main\java\factoryPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DbSingletonDemo">
+  <component name="RunManager" selected="Application.ChainOfResponsibilityDemo (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -142,13 +223,13 @@
       <properties />
       <method />
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.adapter.App" />
+    <configuration name="ChainOfResponsibilityDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.behavioral.chain_of_responsibility.responsibilitydemo.main.ChainOfResponsibilityDemo" />
       <module name="designpattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz.cirta.designspattern.adapter.*" />
+          <option name="PATTERN" value="dz.cirta.designspattern.behavioral.chain_of_responsibility.responsibilitydemo.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,13 +237,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.builder.BuilderDemo" />
+    <configuration name="ChainOfResponsibilityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.behavioral.Chain.of.Responsibility.ChainOfResponsibilityDemo" />
       <module name="designpattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz.cirta.designspattern.builder.*" />
+          <option name="PATTERN" value="dz.cirta.designspattern.behavioral.Chain.of.Responsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainOfResponsibilityEveryDayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.behavioral.Chain.of.Responsibility.loggerdemo.ChainOfResponsibilityEveryDayDemo" />
+      <module name="designpattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz.cirta.designspattern.behavioral.Chain.of.Responsibility.loggerdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +266,12 @@
       </method>
     </configuration>
     <configuration name="DbSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.singleton.DbSingletonDemo" />
+      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.creational.singleton.DbSingletonDemo" />
       <module name="designpattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz.cirta.designspattern.singleton.*" />
+          <option name="PATTERN" value="dz.cirta.designspattern.creational.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +280,12 @@
       </method>
     </configuration>
     <configuration name="DemoProductFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.factory.factoryproduct.DemoProductFactory" />
+      <option name="MAIN_CLASS_NAME" value="dz.cirta.designspattern.creational.factory.factoryproduct.DemoProductFactory" />
       <module name="designpattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz.cirta.designspattern.factory.factoryproduct.*" />
+          <option name="PATTERN" value="dz.cirta.designspattern.creational.factory.factoryproduct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,20 +396,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.BuilderDemo" />
       <item itemvalue="Application.DemoProductFactory" />
       <item itemvalue="Application.DbSingletonDemo" />
+      <item itemvalue="Application.ChainOfResponsibilityEveryDayDemo" />
+      <item itemvalue="Application.ChainOfResponsibilityDemo" />
+      <item itemvalue="Application.ChainOfResponsibilityDemo (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainOfResponsibilityDemo (1)" />
+        <item itemvalue="Application.ChainOfResponsibilityDemo" />
+        <item itemvalue="Application.ChainOfResponsibilityEveryDayDemo" />
         <item itemvalue="Application.DbSingletonDemo" />
         <item itemvalue="Application.DemoProductFactory" />
-        <item itemvalue="Application.BuilderDemo" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\b010nsm\AppData\Roaming\Subversion</configuration>
   </component>
@@ -332,7 +430,11 @@
       <workItem from="1564334416213" duration="120000" />
       <workItem from="1564334642432" duration="4358000" />
       <workItem from="1569079171448" duration="16621000" />
-      <workItem from="1594765314936" duration="10381000" />
+      <workItem from="1594765314936" duration="11498000" />
+      <workItem from="1605370730915" duration="5377000" />
+      <workItem from="1608297964523" duration="603000" />
+      <workItem from="1608442418264" duration="2000" />
+      <workItem from="1613590207062" duration="3597000" />
     </task>
     <servers />
   </component>
@@ -346,7 +448,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -361,83 +463,92 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="355" y="112" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1594767244933">
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1605376089801">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="355" y="112" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1594767244933" />
-    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1594815137965">
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1605376089801" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613595108915">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="454" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1594815137965" />
-    <state width="1398" height="184" key="GridCell.Tab.0.bottom" timestamp="1594847559163">
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1613595108914" />
+    <state x="236" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605372683048">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="184" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594847559163" />
-    <state width="1398" height="184" key="GridCell.Tab.0.center" timestamp="1594847559163">
+    <state x="236" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1605372683048" />
+    <state width="699" height="277" key="GridCell.Tab.0.bottom" timestamp="1613597493432">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="184" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594847559163" />
-    <state width="1398" height="184" key="GridCell.Tab.0.left" timestamp="1594847559162">
+    <state width="699" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613597493432" />
+    <state width="699" height="277" key="GridCell.Tab.0.center" timestamp="1613597493430">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="184" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594847559162" />
-    <state width="1398" height="184" key="GridCell.Tab.0.right" timestamp="1594847559163">
+    <state width="699" height="277" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613597493430" />
+    <state width="699" height="277" key="GridCell.Tab.0.left" timestamp="1613597493430">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="184" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594847559163" />
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1594816627432">
+    <state width="699" height="277" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613597493430" />
+    <state width="699" height="277" key="GridCell.Tab.0.right" timestamp="1613597493431">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594816627432" />
-    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1594816627431">
+    <state width="699" height="277" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613597493431" />
+    <state x="258" y="109" key="Maven.ArtifactSearchDialog" timestamp="1613597186119">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1594816627431" />
-    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1594816627431">
+    <state x="258" y="109" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1613597186119" />
+    <state x="469" y="159" key="RollbackChangesDialog" timestamp="1605473929439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1594816627431" />
-    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1594816627431">
+    <state x="469" y="159" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605473929439" />
+    <state x="421" y="205" width="687" height="490" key="find.popup" timestamp="1613597051336">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1594816627431" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1594847635690">
+    <state x="421" y="205" width="687" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1613597051336" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1605473937961">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594847635690" />
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1605473937961" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1613597891658">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1613597891658" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/AudioPlayer.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/AudioPlayer.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/MediaAdapter.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/MediaAdapter.java</url>
           <line>10</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/App.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/App.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/adapter/Mp4Player.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/adapter/Mp4Player.java</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/DemoProductFactory.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/DemoProductFactory.java</url>
           <line>7</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/factory/factoryproduct/ProductFactory.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/dz/cirta/designspattern/creational/factory/factoryproduct/ProductFactory.java</url>
           <line>17</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jrt:///Applications/IntelliJ IDEA.app/Contents/jbr/Contents/Home!/java.logging/java/util/logging/ConsoleHandler.class</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
